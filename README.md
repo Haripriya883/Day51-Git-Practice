@@ -7,3 +7,5 @@ Day 51 : Learned Git basics.
 Day 52 : Learned Github and repository upload.
 
 I am learning Git and Github as part of my data career timeline. 
+
+Day53 : practising git pull.
